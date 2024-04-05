@@ -4,7 +4,10 @@
     "dependencies": {
         "device": "*",
         "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
-        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1"
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.0.1",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0"
     },
     "files": [
         "main.blocks",

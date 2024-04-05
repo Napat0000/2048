@@ -109,7 +109,7 @@ namespace myTiles {
 . . . . . . . . . . . . . . . . 
 `, [myTiles.transparency16], TileScale.Sixteen);
             case "level2":
-            case "level2":return tiles.createTilemap(hex`0a0008000303030303030303030303030101010101010303030301020202020103030303010202020201030303030102020202010303030301020202020103030303010101010101030303030303030303030303`, img`
+            case "level2":return tiles.createTilemap(hex`0a0008000101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101`, img`
 . . . . . . . . . . 
 . . . . . . . . . . 
 . . . . . . . . . . 
@@ -118,7 +118,7 @@ namespace myTiles {
 . . . . . . . . . . 
 . . . . . . . . . . 
 . . . . . . . . . . 
-`, [myTiles.transparency16,myTiles.tile1,myTiles.tile2,myTiles.tile3], TileScale.Sixteen);
+`, [myTiles.transparency16,myTiles.tile3], TileScale.Sixteen);
         }
         return null;
     })

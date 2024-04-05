@@ -268,11 +268,9 @@
     "level2": {
         "id": "level2",
         "mimeType": "application/mkcd-tilemap",
-        "data": "MTAwYTAwMDgwMDAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAxMDEwMTAxMDEwMTAzMDMwMzAzMDEwMjAyMDIwMjAxMDMwMzAzMDMwMTAyMDIwMjAyMDEwMzAzMDMwMzAxMDIwMjAyMDIwMTAzMDMwMzAzMDEwMjAyMDIwMjAxMDMwMzAzMDMwMTAxMDEwMTAxMDEwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "data": "MTAwYTAwMDgwMDAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
         "tileset": [
             "myTiles.transparency16",
-            "myTiles.tile1",
-            "myTiles.tile2",
             "myTiles.tile3"
         ],
         "displayName": "level2"
